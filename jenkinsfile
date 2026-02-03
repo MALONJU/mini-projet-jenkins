@@ -1,4 +1,5 @@
-@Library('bibiche-malonju')_
+@Library('bibiche-shared-malonju')_
+
 
 pipeline {
     environment {
